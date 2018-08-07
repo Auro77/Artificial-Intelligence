@@ -1,2 +1,3 @@
-# Artificial-Intelligence
-CSCI 561 projects
+# Fruit-Rage
+
+
