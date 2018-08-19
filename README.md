@@ -1,3 +1,3 @@
-# Fruit-Rage
+# Artificial Intelligence
 
 
